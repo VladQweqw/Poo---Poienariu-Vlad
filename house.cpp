@@ -3,10 +3,10 @@
 
 // main function
 int main() {
-    // creating the house ( my_house ), with the size of 5
-    House my_house(3);
-    House my_house2(6);
-    House my_house3(25);
+    // creating the house ( my_house )
+    House my_house(1);
+    House my_house2(9);
+    House my_house3(45);
     
     // dispaly the house base size
     my_house.GetSize();
